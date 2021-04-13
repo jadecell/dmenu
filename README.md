@@ -38,3 +38,4 @@ dmenu_run [options]
 | sf     | selected foreground color                           | Str        |
 | v      | prints version number                               | None       |
 | w      | embed into windowid                                 | Int        |
+| P      | Password input field by turning input into periods  | None       |
